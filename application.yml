@@ -1,5 +1,6 @@
+
 mi:
-  saludo : hola desde repositorio red git
+  saludo : hola
   lista.valores: uno,dos,tres
 
 db:
