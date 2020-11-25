@@ -9,7 +9,7 @@ db:
   nombre: 'nombre',\
   port: 'port'}"
   host: "localhost"
-  port: 8000
+  port: 1000
 
 management:
   endpoints:
