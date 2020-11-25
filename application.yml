@@ -1,6 +1,7 @@
 mi:
-  saludo : hola desde repositorio local
-  lista.valores: uno,dos,tres
+  saludo : hola servidor web 
+  lista:
+    valores: test,uno,dos,tres
 
 db:
   claveValor : "{\
