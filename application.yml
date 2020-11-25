@@ -1,0 +1,17 @@
+mi:
+  saludo : hola desde repositorio local
+  lista.valores: uno,dos,tres
+
+db:
+  claveValor : "{\
+  urlBase: 'urlBase',\
+  nombre: 'nombre',\
+  port: 'port'}"
+  host: "localhost"
+  port: 8000
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
